@@ -1,0 +1,2 @@
+# simplifschool
+for school
